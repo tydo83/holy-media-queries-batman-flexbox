@@ -7,7 +7,7 @@ Now we'll be using CSS Flexbox to change a holy grail layout into a _responsive_
 
 ### Scared By Flexbox?
 
-You shouldn't be! You are, after all, a little more familiar with it. But if you'd rather, you can always switch to [the Grid version of this challenge]().
+You shouldn't be! You are, after all, a little more familiar with it. But if you'd rather, you can always switch to [the Grid version of this challenge](https://github.com/ci-wdi-900/holy-media-queries-batman-grid).
 
 
 ### Setup
