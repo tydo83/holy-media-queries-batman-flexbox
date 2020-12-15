@@ -49,3 +49,46 @@
   width: 100vw;
   background-color: #f08a4b;
 }
+
+/* table version */
+@media(min-width:701px) and (max-width:1100px) {
+  #middle {
+    flex-direction: column;
+  }
+  #nav {
+    width: 100vw;
+  }
+  #main {
+    flex-direction: row;
+    width: 100%;
+  }
+  #articles {
+    width: 50vw;
+    height: 60vh;
+  }
+  #ads {
+    width: 50vw;
+    height: 60vh;
+  }
+}
+
+/* mobile version*/
+@media(max-width:700px) {
+  #middle {
+    flex-direction: column;
+  }
+  #main {
+    flex-direction: column;
+  }
+  #nav {
+    width: 100vw;
+  }
+  #articles {
+    height: 60vw;
+    width: 100vw;
+  }
+  #ads {
+    width: 100vw;
+  }
+
+}
